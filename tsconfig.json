@@ -1,0 +1,9 @@
+{
+  "include": [ "app/**/*" ],
+  "compilerOptions": {
+    "outFile": "target/tsc.js",
+    "module": "es6"
+    // "noImplicitAny": true,
+    // "strictNullChecks": true,
+  }
+}
